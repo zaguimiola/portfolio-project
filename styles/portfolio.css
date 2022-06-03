@@ -69,12 +69,7 @@ p {
 .content h3 {
   font-size: 24px;
   line-height: 1.5;
-  padding: 20px 0 0;
   font-family: var(--default-font-family);
-}
-
-.content p {
-  font-size: 14px;
 }
 
 .content-container p {
@@ -107,7 +102,7 @@ p {
 }
 
 .project-description {
-  padding: 120px 60px;
+  padding: 30px 60px;
 }
 
 @media (max-width: 960px) {
